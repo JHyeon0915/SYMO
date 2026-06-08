@@ -501,6 +501,10 @@
   transition: background-color .12s ease;
 }
 
+.symptom span {
+  max-width: 80%;
+}
+
 .symptom:hover {
   background: #f7f8fa;
 }
